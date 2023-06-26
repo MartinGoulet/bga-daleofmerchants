@@ -1,0 +1,30 @@
+@import "../node_modules/bga-zoom/bga-zoom";
+@import "../node_modules/bga-cards/bga-cards";
+@import "../node_modules/bga-jump-to/bga-jump-to";
+
+@import "table-center";
+@import "player-table";
+
+#bga-zoom-wrapper {
+   padding-top: 32px;
+}
+
+#tables-and-center {
+   position: relative;
+   display: flex;
+   justify-content: center;
+   align-items: stretch;
+   gap: 20px;
+   flex-direction: column;
+   margin-right: 10px;
+
+   #tables {
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 20px;
+    //   flex-direction: column;
+   }
+}

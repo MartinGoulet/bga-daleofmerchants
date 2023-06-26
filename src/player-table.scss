@@ -1,0 +1,29 @@
+div[data-color="008000"] {
+   .dm-background {
+      background: url("img/board-green.jpg");
+   }
+}
+
+div[data-color="ff0000"] {
+   .dm-background {
+      background: url("img/board-red.jpg");
+   }
+}
+#tables {
+
+    .dm-title {
+    //   position: absolute;
+      top: -40px;
+   }
+   .dm-background {
+    //   position: absolute;
+      background-size: 700px 413px;
+      width: 700px;
+      height: 413px;
+      top: 40px;
+   }
+   > div {
+      border: 1px solid black;
+    //   position: relative;
+   }
+}

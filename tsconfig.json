@@ -5,7 +5,7 @@
       "module": "none",
       "lib": ["dom", "esnext"],  
       "sourceMap": false,
-      "outFile": "wizardsgrimoire.js",
+      "outFile": "dalemerchants.js",
       "removeComments": true,
       "strict": false,
     },
@@ -33,35 +33,16 @@
         "node_modules/bga-cards/src/card-manager.ts",
         "node_modules/bga-cards/src/sort.ts",
 
-        "src/wizards-grimoire.d.ts",
-        "src/wizards-grimoire.ts",
-        "src/deck.ts",
+        "src/dale-merchants.d.ts",
+        "src/dale-merchants.ts",
         
-        "src/managers/action.ts",
-        "src/managers/cards.ts",
+        // "src/managers/action.ts",
+        // "src/managers/cards.ts",
         "src/managers/notification.ts",
         "src/managers/state.ts",
 
         "src/player-table.ts",
         "src/table-center.ts",
-        "src/game-options.ts",
-
-        "src/states/discard-mana.ts",
-        "src/states/cast-spell.ts",
-        "src/states/cast-spell-interaction.ts",
-        "src/states/choose-new-spell.ts",
-        "src/states/basic-attack.ts",
-
-        "src/states/activate-delayed-spell.ts",
-        "src/states/bad-fortune.ts",
-        "src/states/cast-spell-with-mana.ts",
-        "src/states/question.ts",
-        "src/states/player-new-turn.ts",
-        "src/states/select-mana.ts",
-        "src/states/select-mana-deck.ts",
-        "src/states/select-mana-discard.ts",
-        "src/states/select-mana-hand.ts",
-        "src/states/select-mana-return-deck.ts",
 
         "src/define.ts"
     ]

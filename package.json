@@ -14,7 +14,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build:ts": "tsc",
-    "build:scss": "sass --no-source-map src/wizards-grimoire.scss wizardsgrimoire.css"
+    "build:scss": "sass --no-source-map src/dale-merchants.scss dalemerchants.css"
   },
   "author": "",
   "license": "ISC"
