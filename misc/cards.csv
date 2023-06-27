@@ -1,0 +1,7 @@
+id|Name|GameText|HasPlus|Type-con|Value|Count|SetIcon
+1|Swift Broker|Discard your hand. Draw as many cards from your deck and place them into your hand|true|DM_TYPE_TECHNIQUE|1|1|Macaws
+2|Cookies|Your hand size is increased by 1|false|DM_TYPE_PASSIVE|2|1|Macaws
+3|Shattered Relic|Throw away a card from your hand. Draw a card from your deck and place it into your hand|true|DM_TYPE_TECHNIQUE|3|3|Macaws
+4|Spyglass|Draw 3 cards from your deck. Place 1 into your hand and the rest back in any order|true|DM_TYPE_TECHNIQUE|4|3|Macaws
+5|Flashy Show|All cards you use get +1 to their value for this turn|true|DM_TYPE_TECHNIQUE|5|3|Macaws
+6|Favorite Toy|Place the top card from your discard pile into your hand|true|DM_TYPE_TECHNIQUE|5|4|Macaws
